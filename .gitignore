@@ -55,10 +55,6 @@ $RECYCLE.BIN/
 **/raw/**
 **/processed/**
 
-# Large or generated images (keep only hand-made assets)
-images/**
-!images/README.md   # ← sample placeholder if you want the folder to exist
-
 # Logs & checkpoints
 logs/
 *.log
